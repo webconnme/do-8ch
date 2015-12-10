@@ -1,0 +1,9 @@
+[submodule "bootloader"]
+	path = bootloader
+	url = https://github.com/webconnme/bootloader
+[submodule "buildroot"]
+	path = buildroot
+	url = https://github.com/webconnme/buildroot
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/webconnme/kernel
